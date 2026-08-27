@@ -21,4 +21,4 @@ Python (FastAPI, Pandas, NumPy) · n8n · Anthropic API / MCP · Supabase / Post
 
 ### Contact
 
-[LinkedIn](https://linkedin.com/in/harwin-singh-malhi) · [gamma-automations.com](https://gamma-automations.com) · harwinmalhi02@gmail.com
+[LinkedIn](https://linkedin.com/in/harwin-singh-malhi) · trialone.dev · harwinmalhi02@gmail.com
