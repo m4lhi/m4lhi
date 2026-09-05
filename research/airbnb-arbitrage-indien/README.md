@@ -16,11 +16,19 @@ Die Break-even-Miete liegt bei Fernbetrieb zwischen 6.500 und 24.600 INR/Monat. 
 | [`report.html`](report.html) | Quelle des PDF |
 | [`nordindien-ergaenzung-2026.pdf`](nordindien-ergaenzung-2026.pdf) | **Ergänzung, 7 Seiten.** Sikkim, Ladakh/Leh, Himachal, Uttarakhand, Delhi, UP, Rajasthan, Punjab — wer darf als *Mieter* registrieren, und was verdienen die Märkte |
 | [`nordindien.html`](nordindien.html) | Quelle der Ergänzung |
+| [`ganz-indien-skalierung-2026.pdf`](ganz-indien-skalierung-2026.pdf) | **Teil 3, 9 Seiten.** Alle 25+ Bundesstaaten, nach einfachstem Weg zum Profit sortiert. Die drei Rechtswege, Marktdaten ganz Indien, Management- statt Arbitrage-Modell, Expansionsplan |
+| [`ganz-indien.html`](ganz-indien.html) | Quelle von Teil 3 |
 | [`03-recht.md`](03-recht.md) | **Rechts-Langfassung.** OCI/FEMA, Rechtsformwahl, Goa Kategorie-D-Registrierung, Panchayat-Genehmigungen, GST inkl. der 18-%-RCM-Falle, Einkommensteuer nach dem Income-tax Act 2025, Form III/FRRO, CRZ, Mietvertragsrecht, plus die 7 Punkte, die vor dem ersten Euro geklärt sein müssen |
 
 ## Umrechnung
 
 Durchgehend **1 EUR = 108,4 INR** (EZB-Referenzkurs 02.09.2026) und **1 USD = 95 INR** (94,43–95,61, Anfang September 2026). Die Recherche-Agenten hatten abweichende USD-Kurse (83/85/88) verwendet; alle Zahlen im Report sind auf den belegten Kurs normalisiert.
+
+## Ganz Indien (Teil 3) — der Befund, der die Strategie kippt
+
+Nach Prüfung von über 25 Bundesstaaten: **Rental-Arbitrage skaliert in Indien nicht.** Die Homestay-Programme fast aller Staaten verlangen, dass der Eigentümer im Objekt wohnt — Kerala und Karnataka schließen geleaste Objekte ausdrücklich aus, Himachal hat den Pachtbetrieb 2025 für illegal erklärt. Offen für Pächter sind nur Goa, Rajasthan und Gujarat.
+
+**Was skaliert, ist das Management-Modell:** Der Eigentümer bleibt Lizenznehmer, ihr betreibt gegen 20–30 % Umsatzbeteiligung. So arbeiten StayVista (1.200+ Objekte), SaffronStays (300+) und Lohono (100 in Indien). Kapitaleffizienz bei 10.000 €: **rund 50 Objekte statt 2.** Empfohlene Reihenfolge: Goa → Alibaug/Lonavala → Rajasthan → Tamil Nadu, weil diese drei Regionen gegenläufige Saisons haben.
 
 ## Datenlage — bitte lesen
 
